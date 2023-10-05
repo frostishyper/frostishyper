@@ -3,5 +3,4 @@
 - 🌱 Computer Science Uni Student
 - 💞️ Eternal Pursuit Of Knowledge
 - 📫 Contact me frostplays03@gmail.com
-
--🧐 JavaScript and C#
+- 🧐 JavaScript and C#
