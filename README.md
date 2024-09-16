@@ -1,12 +1,12 @@
 ## Hi I'm LEE 👋
 
-I'm a **Hobbyist Game Developer** and **Fullstack Web Developer** That Enjoys All Stuff Related To Tech, Anime, And Art. I love Creating Fun Stuff and learning new things
+I'm a **Hobbyist Game Developer** and **Fullstack Web Developer** That Enjoys All Stuff Related To Tech, Anime, Gaming And Art. I love Creating Fun Stuff and learning new things
 
 <img src="https://tenor.com/view/hata-motohiro-colors-toho-animation-gif-14658939984423718328.gif" width="900px" />
 
-**Game Development**: Unity, 2D, 2D Animation, Game Dessign.
+**Game Development**: Unity 2D, 2D Animation, Sprites, Game Design.
 
-**Web Development**: HTML, CSS, JavaScript, Node.js
+**Web Development**: HTML, CSS, JavaScript, Node.js, Express
 
 ## 🖥️ My Tech Stack
 
