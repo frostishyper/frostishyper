@@ -1,21 +1,73 @@
-## Hi I'm LEE 👋
+# ❄️Frostishyper
 
-I'm a **Hobbyist Game Developer** and **Fullstack Web Developer** That Enjoys All Stuff Related To Tech, Anime, Gaming And Art. I love Creating Fun Stuff and learning new things
+<img  src="https://media1.tenor.com/m/pl6jdcwIzpAAAAAd/shorekeeper-wutheringwaves.gif" width="100%"/>
 
-<img src="https://tenor.com/view/hata-motohiro-colors-toho-animation-gif-14658939984423718328.gif" width="900px" />
+<h3 align="center"><code> Love Shore Keeper ~ 💙 </code></h3>
 
-**Game Development**: Unity 2D, 2D Animation, Sprites, Game Design.
+## 👤 About Me
 
-**Web Development**: HTML, CSS, JavaScript, Node.js, Express
+Currently a Computer Science Student In Uni, I'm a **Hobbyist Game Developer** and **Fullstack Web Developer** that Enjoys All Stuff Related to Tech, Anime, Gaming and Art. I love Creating Fun Stuff and Learning New Things. 
 
-## 🖥️ My Tech Stack
+- 🎓 T.I.P Manila Computer Science
+- 🖌️ Digital Artist
+- 👾 Anime/Light Novel Enjoyer
+- 🎮 Gamer
+  
+## My Stack
 
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-[![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
-[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
-[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>🛠 Tools</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=light&size=60" />
+      </a>
+    </td>
+    <td align="center">
+      <h3>🎮 Game Dev</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cs,unity,blender&theme=light&size=60" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🌐 Fullstack Web Dev</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,mysql&theme=light&size=60" />
+      </a>
+    </td>
+    <td align="center">
+      <h3>📦 Misc</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cpp,java,androidstudio,firebase&theme=light&size=60" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+## Stats
+
+<p align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=frostishyper&show_icons=true&locale=en&theme=default" alt="frostishyper stats"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frostishyper&layout=compact&theme=default" alt="frostishyper languages"/>
+</p>
+
+## Socials
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frostplays03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leerc/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/643784887790338058)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198890334799/)
+
+
+
+
+
+
+
+
+
+
+
