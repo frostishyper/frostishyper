@@ -46,14 +46,6 @@ Currently a Computer Science Student In Uni, I'm a **Hobbyist Game Developer** a
   </tr>
 </table>
 
-
-## Stats
-
-<p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=frostishyper&show_icons=true&locale=en&theme=default" alt="frostishyper stats"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frostishyper&layout=compact&theme=default" alt="frostishyper languages"/>
-</p>
-
 ## Socials
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frostplays03@gmail.com)
